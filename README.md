@@ -15,9 +15,3 @@ The exercises of **Level 4**: [Level_04](https://github.com/barimehdi77/42-pisci
 The exercises of **Level 5**: [Level_05](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_05)
 
 Good luck in The exams :)
-
----
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
